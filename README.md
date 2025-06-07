@@ -36,9 +36,19 @@
    `npm install`  
    `npx react-native run-android`
 
+   
 ## 📱 Screenshots
 
-![WhatsApp Image 2025-05-03 at 19 33 54_6cc6525f](https://github.com/user-attachments/assets/2167ed4a-4d8e-4f4d-bc4e-7774c80b6192)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2167ed4a-4d8e-4f4d-bc4e-7774c80b6192" width="200" />
+  <img src="https://github.com/user-attachments/assets/52db43c3-0a02-486a-b9e5-ff6db48f7a3f" width="200" />
+  <img src="https://github.com/user-attachments/assets/6f88fe74-ca5d-4c20-a55f-253c55285ae6" width="200" />
+  <img src="https://github.com/user-attachments/assets/895cc998-15de-46de-bf4f-4e9c25e3631a" width="200" />
+</div>
+
+
+
+
 
 
 ## 💡 Contribute
