@@ -1,50 +1,55 @@
-# Welcome to your Expo app 👋
+# 🚗 ParkEase – Smart Parking Made Easy
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**ParkEase** is a React Native mobile app that helps users seamlessly rent, book, or list personal parking spaces. It also offers a valet service where a trusted partner parks and returns your car when needed—making urban parking stress-free.
 
-## Get started
+## 🌟 Features
 
-1. Install dependencies
+- 🔍 Find & book available parking spots nearby  
+- 💼 List your unused parking space & earn  
+- 🔐 Secure payments & verified users  
+- 🤝 Valet service for hassle-free parking  
+- 📡 Real-time availability & status updates  
 
-   ```bash
-   npm install
-   ```
+## 📈 Why ParkEase?
 
-2. Start the app
+> With 41+ lakh cars sold in India in 2023, parking is a growing urban issue.  
+> ParkEase taps into the sharing economy to solve this problem at scale.
 
-   ```bash
-    npx expo start
-   ```
+## 🔮 Future Expansion
 
-In the output, you'll find options to open the app in a
+- 📲 PocketParker: Uses smartphone sensors & crowd data to detect empty spots  
+- 🎥 LPR & RFID integration for security and access control  
+- 🛠️ Real-time alerts for suspicious activity  
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🛠 Tech Stack
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- **React Native**  
+- **Firebase** (Authentication, Realtime DB)  
+- **Google Maps API**  
+- **Razorpay** (for secure payments)  
 
-## Get a fresh project
+## 🚀 Getting Started
 
-When you're ready, run:
+1. Clone the repo  
+   `git clone https://github.com/aashish1601/parkease`  
+2. Run  
+   `npm install`  
+   `npx react-native run-android`
 
-```bash
-npm run reset-project
-```
+## 📱 Screenshots
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+![WhatsApp Image 2025-05-03 at 19 33 54_6cc6525f](https://github.com/user-attachments/assets/2167ed4a-4d8e-4f4d-bc4e-7774c80b6192)
 
-## Learn more
 
-To learn more about developing your project with Expo, look at the following resources:
+## 💡 Contribute
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Pull requests are welcome! For major changes, please open an issue first.
 
-## Join the community
+## 📄 License
 
-Join our community of developers creating universal apps.
+MIT License
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
+> Made with ❤️ to solve real-world parking problems  
+> [View Live Demo](https://github.com/aashish1601/parkease)
